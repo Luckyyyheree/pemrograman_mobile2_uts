@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:width="108dp"
+            android:height="108dp"
+            android:viewportWidth="108"
+            android:viewportHeight="108">
+            <path
+                android:name="star"
+                android:fillColor="#7B5EA7"
+                android:pathData="M54,20 L60,40 L80,40 L65,52 L70,72 L54,60 L38,72 L43,52 L28,40 L48,40 Z"/>
+            <path
+                android:fillColor="#4A90D9"
+                android:pathData="M54,35 L58,47 L70,47 L61,54 L64,66 L54,59 L44,66 L47,54 L38,47 L50,47 Z"
+                android:fillAlpha="0.6"/>
+        </vector>
+    </aapt:attr>
+    <target android:name="star">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:duration="1000"
+                android:propertyName="scaleX"
+                android:valueFrom="0"
+                android:valueTo="1"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/overshoot"/>
+        </aapt:attr>
+    </target>
+</animated-vector>
