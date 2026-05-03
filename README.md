@@ -10,13 +10,6 @@
 
 ##  Deskripsi Project: Reminder Kuliah & AI Quiz
 Aplikasi ini adalah solusi asisten akademik berbasis Android yang dikembangkan untuk membantu mahasiswa dalam manajemen waktu dan proses belajar. 
-
-**Fitur Utama:**
-* **Location-Aware Splash Screen**: Mendeteksi lokasi pengguna secara real-time.
-* **Jadwal Kuliah**: Input detail dosen, ruangan, dan jam kuliah dengan sistem pengingat.
-* **AI Quiz Generator**: Membuat soal kuis otomatis berdasarkan topik materi menggunakan integrasi AI.
-* **Manual Quiz Editor**: Fitur pembuatan bank soal secara mandiri untuk persiapan ujian.
-
 ---
 
 ##  Dokumentasi UI Flow (Alur Antarmuka)
