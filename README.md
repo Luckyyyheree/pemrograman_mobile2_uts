@@ -8,8 +8,8 @@
 
 ---
 
-##  Deskripsi Project: Reminder Kuliah & AI Quiz
-Aplikasi ini adalah solusi asisten akademik berbasis Android yang dikembangkan untuk membantu mahasiswa dalam manajemen waktu dan proses belajar. 
+##  Deskripsi Project: Reminder AI
+Aplikasi ini adalah solusi asisten akademik berbasis Android yang dikembangkan untuk membantu dalam manajemen waktu. 
 ---
 
 ##  Dokumentasi UI Flow (Alur Antarmuka)
